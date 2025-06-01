@@ -10,6 +10,8 @@ This project aims to classify news articles as real or fake based on their conte
 To complete this project, you should understand Python programming, data manipulation, visualization libraries such as Pandas and Matplotlib, and machine learning libraries such as Scikit-Learn. Additionally, some background knowledge of natural language processing (NLP) techniques and text classification methods would be helpful.
 # Model Details
 
+By using given dataset news.csv
+
 1.Text Preprocessing:
 Lowercasing,
 Removal of punctuation and stopwords,
